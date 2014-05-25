@@ -11,15 +11,13 @@ This library allows you to send and receive aynschronous commands to your game-s
 #### How to Install
 
 ```bash
-git clone https://github.com/Lulz0rz/battle-node.git
-cd battle-node
-node example.js // runs example
+npm install battle-node
 ```
 
 #### Example Code
 
 ```javascript
-var BattleNode = require('./lib');
+var BattleNode = require('battle-node');
 var fs = require('fs');
 
 var config = {
