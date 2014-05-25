@@ -1,0 +1,11 @@
+{
+  "name": "battle-node",
+  "version": "0.0.1",
+  "description": "Battle Eye Client for Node JS",
+  "main": "./lib/index.js",
+  "author": "Lulz0rz",
+  "license": "ISC",
+  "dependencies": {
+    "buffer-crc32": "^0.2.1"
+  }
+}
