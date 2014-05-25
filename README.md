@@ -14,6 +14,7 @@ This library allows you to send and receive aynschronous commands to your game-s
 git clone https://github.com/Lulz0rz/battle-node.git
 cd battle-node
 node example.js // runs example
+```
 
 ```javascript
 var BattleNode = require('./lib');
@@ -79,3 +80,4 @@ bnode.on('disconnected', function() {
   console.log('RCON server disconnected.');
   
 });
+```
