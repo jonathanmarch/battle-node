@@ -1,8 +1,10 @@
 # Battle Node
 
-Battle Node is a node.js library built for Battle Eye Rcon.
+Battle Node is a simple node.js library built for Battle Eye Rcon.
 
 Battle Eye is an anti-cheat that runs on popular game-servers such as ARMA2, ARMA3 and Dayz Mod.
+
+This library allows you to send and receive aynschronous commands to your game-server.
 
 [List of Commands](http://www.battleye.com/doc.html)
 
