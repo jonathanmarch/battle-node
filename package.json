@@ -1,6 +1,6 @@
 {
   "name": "battle-node",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Battle Eye Client for Node JS",
   "main": "./lib/index.js",
   "author": "Lulz0rz",
